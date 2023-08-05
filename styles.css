@@ -3,3 +3,8 @@
   color: #d1d5db;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+h1, div {
+  text-align: center;
+}
+
